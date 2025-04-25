@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @neeradamapalagama
-- 👀 I’m interested in programing, music
-- 🌱 I’m currently learning engineering
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m interested in research, programing, music
+- 🌱 I’m currently learning Materials Science & Engineering
+- 💞️ I’m looking to collaborate on Materials Science, Computer Science, and AI research.
+- 📫 How to reach me - via LinkedIn
 
 <!---
 neeradamapalagama/neeradamapalagama is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
