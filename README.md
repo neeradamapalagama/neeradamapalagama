@@ -16,8 +16,8 @@ I actively develop scientific software tools that accelerate materials research,
 
 ## Contact
 
-- LinkedIn: [linkedin.com/in/your-profile](https://www.linkedin.com/in/neeradamapalagama)
-- GitHub: [github.com/<your-username>](https://github.com/neeradamapalagama)
+- LinkedIn: [https://www.linkedin.com/in/neeradamapalagama](https://www.linkedin.com/in/neeradamapalagama)
+- GitHub: [https://github.com/neeradamapalagama](https://github.com/neeradamapalagama)
 
 <!---
 neeradamapalagama/neeradamapalagama is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
